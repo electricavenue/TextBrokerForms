@@ -1,0 +1,8 @@
+Title;Form to process a order of new products or new content;;;
+Order Num.;;;;
+Name of person ordered;;;;
+Instruccions;Please fill the most fields as possible,;;;
+Version;0.1.0;;;
+;;;;
+;;;;
+sku;name;mfr;stock;new/rewritte
